@@ -16,6 +16,7 @@ namespace ProgressBarExam.Models.Controls
         {
             string fileName = this.GetType().Name + ".html";
 
+            // Ojo con el path para los Controls.
             string path = AppDomain.CurrentDomain.BaseDirectory + "\\" + Path.Combine(@"Models\Controls", fileName);
 
 
@@ -34,6 +35,7 @@ namespace ProgressBarExam.Models.Controls
                 {
                     var value = prop.GetValue(this, null).ToString();
 
+                    // Aca se determina la forma en la que va a ser entendida la etiqueta.
                     var tag = string.Format("-#{0}-", prop.Name);
                     html = html.Replace(tag, value);
                 }
