@@ -10,7 +10,7 @@ namespace ProgressBarExam.Models.Controls
 
 
 
-      //  public string Id { get; set; }
+        public string Id { get; set; }
 
         // Aca van coordenadas de SJ Costa Rica Quemadas.
         public string Porcentaje { get; set; } = "50%";

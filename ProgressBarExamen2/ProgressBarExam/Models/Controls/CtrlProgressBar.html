@@ -1,7 +1,14 @@
 ﻿<!--Aca va la barra parametrizable.-->
+
+
+
+
+
+
+<label for="progressBar">Barra de Progreso:</label>
 <div class="progress">
-    <!-- Se escoje el porcentaje.-->                                                                                                   <!-- Se escoje el color en hexageximal.-->
-    <div class="progress-bar " role="progressbar" style="  " width: -#pPorcentaje-" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" background-color="-#pColor-"></div>
+    <!-- Se escoje el id.-->     <!-- Se escoje el porcentaje.-->             <!-- Se escoje el color en hexageximal.-->
+    <div id="-#Id-" class="progress-bar " role="progressbar" style="  " width: -#Porcentaje-" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" background-color="-#Color-"></div>
 </div>
 
 
@@ -10,17 +17,52 @@
     -->
 
 
+
+<h5>El cogigo de color tiene que ir con #:</h5>
+<h5>Rosado: #ff70c6  </h5>
+<h5>Verde: #008f39  </h5>
+<h5>Rojo: #76191e   </h5>
+<h5>Azul: #004f98   </h5>
+
+
+<label for="Color_-#Id-">Color (Código Hexadecimal):</label>
+<input type="text" id="Color_-#Id-" name="inputColor">
+
+
+<h5>El porcentaje debe ir con un % Ejemplo: 15% :</h5>
+<label for="Porcentaje_-#Id-">Porcentaje % :</label>
+<input type="text" id="Porcentaje_-#Id-" name="inputPorcentaje">
+
+<button id="button_-#Id-" type="button">Enviar Parametros!</button>
+
+
 <script>
 
-    var inputIdProgressBar =
-    var inputColor = 
-    var inputPorcentaje = 
+    $(document).ready(function () {
+
+        cambiarParametros()
+
+
+    });
+
+    function cambiarParametros() {
+
+        var inputColor = document.getElementById("Color_-#Id-")
+        var inputPorcentaje = document.getElementById("Porcentaje_-#Id-")
+
+        var btnSummit = document.getElementById("button_-#Id-")
+        var progressbar = document.getElementById("-#Id-")
+
+        btnSummit.addEventListener("click", function () {
+
+            progressbar.style.width = inputPorcentaje.value
+            progressbar.style.backgroundColor = inputColor.value
+            console.log("Funciona el Btn");
+        })
+
+
+    }
+
 
 
 </script>
-
-<input type="text" id="-#id-" name="inputIdProgressBar">
-<input type="text" id="Color_-#id-" name="inputColor">
-<input type="text" id="Porcentaje_-#id-" name="inputPorcentaje">
-
-
