@@ -5,7 +5,16 @@ using System.Web;
 
 namespace ProgressBarExam.Models.Controls
 {
-    public class CtrlProgressBar
+    public class CtrlProgressBar : CtrlBaseModel
     {
+
+
+
+
+
+
+
+
+
     }
 }
