@@ -1,0 +1,5 @@
+CREATE PROCEDURE CREATE_PAGO_PR (@P_fecha_pago date,  @P_monto decimal(18,4), @P_credito_id int)
+As
+INSERT INTO Pagos ( fecha_pago, monto, credito_id)
+VALUES ( @P_fecha_pago, @P_monto , @P_credito_id )
+GO

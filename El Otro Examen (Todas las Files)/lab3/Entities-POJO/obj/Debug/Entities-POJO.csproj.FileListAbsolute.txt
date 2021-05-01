@@ -1,0 +1,58 @@
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Entities-POJO.dll.config
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Entities-POJO.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Entities-POJO.pdb
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\CloudinaryDotNet.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\System.Web.Cors.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\CloudinaryDotNet.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\obj\Debug\Entities-POJO.csprojAssemblyReference.cache
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\obj\Debug\Entities-POJO.csproj.CoreCompileInputs.cache
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\obj\Debug\Entities-POJO.csproj.CopyComplete
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\obj\Debug\Entities-POJO.dll
+C:\Repositorios Progra 2021\Proyecto 2\Proyecto_2\Architecture Components - Secure\Entities-POJO\obj\Debug\Entities-POJO.pdb
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Entities-POJO.dll.config
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Entities-POJO.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Entities-POJO.pdb
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\CloudinaryDotNet.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Newtonsoft.Json.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\System.Web.Cors.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\CloudinaryDotNet.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\Newtonsoft.Json.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\obj\Debug\Entities-POJO.csprojAssemblyReference.cache
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\obj\Debug\Entities-POJO.csproj.CoreCompileInputs.cache
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\obj\Debug\Entities-POJO.csproj.CopyComplete
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\obj\Debug\Entities-POJO.dll
+C:\Repositorios Progra 2021\Proyecto 2\Lab4_Proy2\lab3\Entities-POJO\obj\Debug\Entities-POJO.pdb

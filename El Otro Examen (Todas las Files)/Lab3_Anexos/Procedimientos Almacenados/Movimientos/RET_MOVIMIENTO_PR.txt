@@ -1,0 +1,3 @@
+CREATE PROCEDURE RET_MOVIMIENTO_PR (@P_id_movimiento int)
+AS
+SELECT * FROM Movimientos WHERE id_movimiento = @P_id_movimiento

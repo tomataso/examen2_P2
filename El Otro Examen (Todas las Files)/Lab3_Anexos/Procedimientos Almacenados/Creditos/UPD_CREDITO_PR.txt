@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_CREDITO_PR (@P_id_credito int,@P_monto decimal(18,4), @P_tasa decimal(18,4), @P_nombre_linea nchar(20), @P_cuota decimal(18,4),  @P_fecha_inicio date, @P_estado  nchar(20), @P_saldo nchar(20), @P_cliente_id nchar(20))
+AS
+UPDATE Creditos SET  monto = @P_monto, tasa = @P_tasa, nombre_linea = @P_nombre_linea, cuota = @P_cuota , fecha_inicio = @P_fecha_inicio, estado = @P_estado, saldo =  @P_saldo, cliente_id = @P_cliente_id 
+WHERE id_credito= @P_id_credito

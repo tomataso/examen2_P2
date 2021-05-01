@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_CLIENTE_PR (@P_cedula nchar(20), @P_nombre nchar(30), @P_apellido nchar(30), @P_fecha_nacimiento date, @P_edad int, @P_estado_civil nchar(10), @P_genero nchar(10))
+AS
+UPDATE Clientes SET  nombre = @P_nombre , apellido = @P_apellido , fecha_nacimiento = @P_fecha_nacimiento, edad = @P_edad , estado_civil = @P_estado_civil, genero = @P_genero 
+WHERE cedula = @P_cedula

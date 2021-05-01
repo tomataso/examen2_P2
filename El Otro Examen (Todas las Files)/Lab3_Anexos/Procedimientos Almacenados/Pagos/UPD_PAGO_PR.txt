@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_PAGO_PR (@P_id_pago int, @P_fecha_pago date,  @P_monto decimal(18,4), @P_credito_id int)
+AS
+UPDATE Pagos SET  fecha_pago = @P_fecha_pago, monto = @P_monto, credito_id = @P_credito_id 
+WHERE id_pago = @P_id_pago

@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_CUENTA_PR (@P_id_cuenta int, @P_moneda nchar(10), @P_tipo nchar(10), @P_saldo decimal(18,4), @P_cliente_id nchar(20))
+AS
+UPDATE Cuentas SET   moneda = @P_moneda , tipo = @P_tipo , saldo = @P_saldo , cliente_id = @P_cliente_id
+WHERE id_cuenta = @P_id_cuenta

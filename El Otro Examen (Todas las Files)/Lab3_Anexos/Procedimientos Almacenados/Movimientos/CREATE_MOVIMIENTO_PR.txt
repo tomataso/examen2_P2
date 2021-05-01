@@ -1,0 +1,5 @@
+CREATE PROCEDURE CREATE_MOVIMIENTO_PR (@P_fecha_movimiento date, @P_tipo nchar(10), @P_monto decimal(18,4), @P_cuenta_id int)
+As
+INSERT INTO Movimientos ( fecha_movimiento, tipo, monto, cuenta_id)
+VALUES ( @P_fecha_movimiento, @P_tipo , @P_monto , @P_cuenta_id )
+GO

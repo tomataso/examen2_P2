@@ -1,0 +1,4 @@
+CREATE PROCEDURE DEL_MOVIMIENTO_PR (@P_id_movimiento int)
+AS
+DELETE Movimientos
+WHERE id_movimiento = @P_id_movimiento

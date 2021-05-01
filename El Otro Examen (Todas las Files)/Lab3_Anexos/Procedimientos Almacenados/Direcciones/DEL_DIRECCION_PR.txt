@@ -1,0 +1,4 @@
+CREATE PROCEDURE DEL_DIRECCION_PR (@P_id_direccion int)
+AS
+DELETE Direcciones
+WHERE id_direccion = @P_id_direccion

@@ -1,0 +1,31 @@
+﻿@using WebApp.Helpers;
+
+
+<script src="~/Scripts/vVistas/vFormRegistro_Cliente.js"></script>
+@{
+    ViewBag.Title = "vFormRegistro_Cliente";
+    Layout = "~/Views/Shared/_Layout_vFormRegistro_Cliente.cshtml";
+}
+
+
+<form id="frmEdition">
+    <div style="margin:1%">Registrar Cliente</div>
+    @Html.CtrlButton(viewName: "vFormRegistro_Cliente", id: "btnCreate", label: "Registrar", onClickFunction: "Create", buttonType: "success")
+    <div class="form-row" style="margin-top:4%">
+        <div class="col">
+            @Html.CtrlInput(id: "txtcedula", type: "text", label: "Cedula", columnDataName: "cedula")
+            @Html.CtrlInput(id: "txtnombre", type: "text", label: "Nombre", columnDataName: "nombre")
+            @Html.CtrlInput(id: "txtapellido", type: "text", label: "Apellido", columnDataName: "apellido")
+            @Html.CtrlInput(id: "txtestado_civil", type: "text", label: "Estado_civil", columnDataName: "estado_civil")
+            @Html.CtrlInput(id: "txtgenero", type: "text", label: "Genero", columnDataName: "genero")
+
+
+        </div>
+        <div class="col">
+            @Html.CtrlInput(id: "txtfecha_nacimiento", type: "date", label: "Fecha_Nacimiento", columnDataName: "fecha_nacimiento")
+            @Html.CtrlInput(id: "intedad", type: "number", label: "Edad", columnDataName: "edad")
+
+            
+        </div>
+    </div>
+</form>

@@ -1,0 +1,10 @@
+CREATE PROCEDURE DEL_CLIENTE_PR (@P_cedula nchar(20))
+AS
+DELETE Cuentas
+WHERE cliente_id = @P_cedula 
+DELETE Direcciones
+WHERE cliente_id = @P_cedula 
+DELETE Creditos
+WHERE cliente_id = @P_cedula 
+DELETE Clientes
+WHERE cedula = @P_cedula 

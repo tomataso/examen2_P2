@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_DIRECCION_PR (@P_id_direccion int, @P_provincia nchar(20), @P_canton nchar(30), @P_distrito nchar(40), @P_detalles nchar(50), @P_cliente_id nchar(20))
+AS
+UPDATE Direcciones SET  provincia = @P_provincia, canton = @P_canton, distrito = @P_distrito, detalles = @P_detalles, cliente_id = @P_cliente_id
+WHERE id_direccion = @P_id_direccion

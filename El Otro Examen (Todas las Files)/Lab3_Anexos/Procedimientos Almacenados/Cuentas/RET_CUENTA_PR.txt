@@ -1,0 +1,3 @@
+CREATE PROCEDURE RET_CUENTA_PR (@P_id_cuenta int)
+AS
+SELECT * FROM Cuentas WHERE id_cuenta = @P_id_cuenta

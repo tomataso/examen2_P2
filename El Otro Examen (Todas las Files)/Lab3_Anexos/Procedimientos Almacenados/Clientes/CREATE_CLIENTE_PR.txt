@@ -1,0 +1,5 @@
+CREATE PROCEDURE CREATE_CLIENTE_PR (@P_cedula nchar(20), @P_nombre nchar(30), @P_apellido nchar(30), @P_fecha_nacimiento date, @P_edad int, @P_estado_civil nchar(10), @P_genero nchar(10))
+AS
+INSERT INTO Clientes (cedula, nombre, apellido, fecha_nacimiento, edad, estado_civil , genero)
+VALUES (@P_cedula, @P_nombre , @P_apellido , @P_fecha_nacimiento , @P_edad , @P_estado_civil , @P_genero)
+GO

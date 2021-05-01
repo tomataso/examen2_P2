@@ -1,0 +1,6 @@
+CREATE PROCEDURE DEL_CREDITO_PR (@P_id_credito int)
+AS
+DELETE Pagos
+WHERE credito_id = @P_id_credito
+DELETE Creditos
+WHERE id_credito = @P_id_credito

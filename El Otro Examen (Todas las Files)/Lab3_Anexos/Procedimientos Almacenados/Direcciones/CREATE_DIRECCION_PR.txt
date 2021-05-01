@@ -1,0 +1,5 @@
+CREATE PROCEDURE CREATE_DIRECCION_PR (@P_provincia nchar(20), @P_canton nchar(30), @P_distrito nchar(40), @P_detalles nchar(50), @P_cliente_id nchar(20))
+As
+INSERT INTO Direcciones ( provincia, canton, distrito, detalles, cliente_id)
+VALUES (@P_provincia, @P_canton , @P_distrito , @P_detalles , @P_cliente_id)
+GO

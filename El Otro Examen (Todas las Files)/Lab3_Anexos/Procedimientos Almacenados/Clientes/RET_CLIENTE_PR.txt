@@ -1,0 +1,3 @@
+CREATE PROCEDURE RET_CLIENTE_PR (@P_cedula nchar(20))
+AS
+SELECT * FROM Clientes WHERE cedula = @P_cedula

@@ -1,0 +1,4 @@
+CREATE PROCEDURE UPD_MOVIMIENTO_PR (@P_id_movimiento int, @P_fecha_movimiento date, @P_tipo nchar(10), @P_monto decimal(18,4), @P_cuenta_id int)
+AS
+UPDATE Movimientos SET  fecha_movimiento = @P_fecha_movimiento, tipo = @P_tipo, monto = @P_monto, cuenta_id = @P_cuenta_id 
+WHERE id_movimiento = @P_id_movimiento
